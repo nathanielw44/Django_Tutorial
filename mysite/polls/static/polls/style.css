@@ -1,0 +1,12 @@
+li a {
+    color: green;
+    background: antiquewhite;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+body {
+    background: white url("images/background.jpeg")
+}
